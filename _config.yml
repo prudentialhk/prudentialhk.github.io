@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: BeiYuu.com
-url: http://beiyuu.com
+title: 香港保险
+url: http://hkbaoxian.cn
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="http://hkbaoxian.cn">香港保险</a>
