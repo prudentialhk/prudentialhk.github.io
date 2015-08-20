@@ -8,6 +8,7 @@ category: blog
 ** 
 liming edit hahah
 # from now edit !!!
+### haha ,test again 21:30
 
 新用户注册购买[DigitalOcean][DO]的VPS，现在使用我的[Refer][DO]注册，即刻获得$10赠送，低配的可用两个月。DO采取丧心病狂的低价竞争策略，每月$5即可享用全功能的SSD硬盘VPS，具体去看看[这里][DO]吧。
 
